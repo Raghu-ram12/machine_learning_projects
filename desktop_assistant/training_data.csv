@@ -1,594 +1,658 @@
 text,intent
-tell me good bye,exit
-now sleep now,exit
-now clock time now,time
-what's mute sound please,volume
-show me who hour,time
-what's leave now,exit
-what's run vscode now,open_app
-tell me's google tutorial,search
-please good afternoon please,greet
-tell me google machine learning now,search
-now clock time please,time
-now what is weather now,weather
-please good bye,exit
-now current time?,time
-please launch chrome?,open_app
-what's launch chrome please,open_app
-what's current weather,weather
-open terminal?,open_app
-show me go to sleep now,exit
-volume up?,volume
-what's shut down,exit
-what's increase volume,volume
-show me shut down please,exit
-tell me good afternoon now,greet
-what's open notepad please,open_app
-tell me clock time please,time
-now weather report?,weather
-show me bye now,exit
-what's hi,greet
-now decrease sound,volume
-show weather,weather
-show me tell me the time now,time
-sound down,volume
-launch chrome,open_app
-what's what hour please,time
-now tell me the time?,time
-tell me's good bye,exit
-now open terminal now,open_app
-please shows up?,greet
-now good morning?,greet
-tell me what day today,date
-please weather report,weather
-show me what date is it now,date
-open notepad please,open_app
-show me volume up?,volume
-audio up please,volume
-tell me google tutorial please,search
-please decrease volume now,volume
-show me sleep now,exit
-what's volume up,volume
-please current weather now,weather
-show me current date?,date
-now leave?,exit
-what's weather today please,weather
-run vscode please,open_app
-what's start calculator now,open_app
-what's what is sklearn please,search
-open browser?,open_app
-calendar date now,date
-tell me current date now,date
-what's google tutorial please,search
-now good afternoon now,greet
-show me leave,exit
-what's open browser?,open_app
+now current time please,time
+tell me close browser now,close_app
 show me current weather,weather
-now google tutorial,search
-please show time is it please,time
-now hi please,greet
-show's run vscode please,open_app
+show's increase audio please,volume
+what's what hour please,time
+now good afternoon,greet
+show weather please,weather
+tell me show date?,date
+tell me what time is it please,time
 what's clock time please,time
+tell me what day today,date
+what's mute sound please,volume
+close browser please,close_app
+show me calendar date now,date
+tell me's tell mes up now,greet
+what's volume down,volume
+tell me current date now,date
+now google tutorial,search
+what is sklearn now,search
+now current time?,time
+tell me what is weather now,weather
+now good morning?,greet
+tell me go to sleep please,exit
+open browser?,open_app
+increase audio now,volume
+please run vscode now,open_app
+tell me clock time please,time
+tell me terminate vscode?,close_app
+what's shut down,exit
+tell me audio up,volume
+now weather report?,weather
+what's good morning,greet
+weather today now,weather
+increase volume now,volume
+good bye,exit
+show me leave now,exit
+now tell me the time?,time
+now sound up now,volume
+please google tutorial?,search
+show me current weather?,weather
+now clock time now,time
+please show weather now,weather
+what's run vscode please,open_app
+good afternoon please,greet
+what's leave please,exit
+show me sleep?,exit
+show weather,weather
+mute sound?,volume
+what's search leetcode now,search
+show me terminate calculator please,close_app
+show me google machine learning,search
+please launch chrome now,open_app
+mute sound please,volume
+what's show weather please,weather
+current weather?,weather
+tell me weather report now,weather
+tell me today date,date
+tell me run vscode?,open_app
+now start calculator?,open_app
+show me increase volume please,volume
+show me show time please,time
+show me start calculator now,open_app
+hi,greet
+search python now,search
+please weather today?,weather
+calendar date now,date
+please go to sleep please,exit
+tell me volume down,volume
+start calculator,open_app
+please google machine learning please,search
+tell me leave please,exit
+please volume down please,volume
+close terminal please,close_app
+what's run vscode,open_app
+please who date is it,date
+tell me close notepad,close_app
+tell me open terminal?,open_app
+who's google machine learning please,search
+tell me what hour please,time
+sleep now,exit
+audio up please,volume
+show me what date is it now,date
+tell me audio down now,volume
+show me who hour,time
+please close vscode now,close_app
+what's good morning now,greet
+now open terminal please,open_app
+show's search python?,search
+what's current weather?,weather
+now increase sound now,volume
+what's run vscode now,open_app
 what's volume up now,volume
+now close calculator,close_app
+please close vscode please,close_app
+now hello?,greet
+now open terminal now,open_app
+please clock time?,time
+tell me who day today,date
+what's good bye?,exit
+tell me hi,greet
+now decrease sound,volume
+please what is sklearn now,search
+what's volume up?,volume
+start calculator please,open_app
+please close terminal now,close_app
+please temperature now now,weather
+tell me good bye please,exit
+tell me what is weather,weather
+tell me whats up?,greet
 tell me what date is it,date
-please hello please,greet
+show's end terminal?,close_app
+show me hi?,greet
+good morning?,greet
+what's google tutorial please,search
+please close notepad?,close_app
+please find nlp now,search
+now close notepad now,close_app
+tell me close notepad now,close_app
+tell me tell me the time,time
+now end terminal now,close_app
+start calculator?,open_app
+what's weather today please,weather
+tell me temperature now now,weather
+what's google tutorial,search
+show me good morning now,greet
+show me tell me the time now,time
+please current weather now,weather
+now close notepad please,close_app
+show me search leetcode please,search
+who day today please,date
+show me mute sound please,volume
+tell me good afternoon?,greet
+please start calculator?,open_app
+now clock time please,time
+tell me tell mes up please,greet
+tell me current weather?,weather
+show me bye?,exit
+close calculator please,close_app
+tell me google machine learning please,search
+now current weather now,weather
+please weather report,weather
+please show time is it please,time
+please sleep,exit
+what's open terminal now,open_app
+tell me tell mes up?,greet
+please weather today now,weather
+close notepad,close_app
+now what day today now,date
+now increase audio now,volume
 now what hour now,time
 what time is it,time
-what's calendar date,date
-please open notepad please,open_app
-tell me google machine learning please,search
-please sound up now,volume
-tell me increase sound please,volume
-show me search leetcode please,search
-tell me today date,date
-tell me what time is it please,time
+shut down?,exit
+tell me search leetcode now,search
+show me volume up,volume
+show's google machine learning please,search
+show me current date?,date
 tell me show time,time
-what's volume up?,volume
-show me good morning now,greet
-now good morning now,greet
-please weather today now,weather
-tell me open terminal?,open_app
-tell me tell me the time,time
-now sleep?,exit
-what's good afternoon?,greet
-now weather report now,weather
-tell me open terminal now,open_app
-please sleep please,exit
-tell me good bye now,exit
-show me good morning?,greet
-now hello please,greet
+now search leetcode please,search
+run vscode?,open_app
+what's current time now,time
+show me run vscode,open_app
+please leave now,exit
+show me good bye?,exit
+what's open notepad please,open_app
+please search leetcode?,search
+tell me what is sklearn?,search
+now clock time?,time
 please tell me hour please,time
-hello now,greet
-show me tell me date is it please,date
-now search python please,search
-please show hour please,time
-show me calendar date now,date
-please clock time?,time
-tell me what is weather,weather
-please launch chrome now,open_app
-show me good morning please,greet
-please weather today?,weather
+whos up?,greet
+who's google tutorial now,search
+open notepad please,open_app
 now run vscode?,open_app
-now search leetcode?,search
-please sound down please,volume
+please show hour please,time
+show's google machine learning,search
+please increase audio please,volume
+end browser please,close_app
+sound down,volume
+now hi,greet
+what's clock time now,time
 now what time is it please,time
 please show hour?,time
-show's hello?,greet
-tell me show date?,date
-tell me mute sound,volume
-what's good morning now,greet
-show me current weather?,weather
-now current weather now,weather
-open terminal please,open_app
-what's open terminal?,open_app
-tell me today date now,date
-now whats up now,greet
-tell me temperature now now,weather
-temperature now?,weather
+please open terminal?,open_app
+what's current weather,weather
+now good bye,exit
+what's open browser?,open_app
 tell me mute sound please,volume
+tell me today date now,date
+what is weather?,weather
+open terminal please,open_app
 what's tell me the time now,time
-tell me current weather,weather
-what's sleep now,exit
-leave now,exit
-show's current weather?,weather
+show me clock time?,time
+tell me's google tutorial now,search
+show me sound down,volume
+who's end chrome?,close_app
+what's start calculator now,open_app
 now tell me the time,time
-tell me go to sleep please,exit
-now start calculator?,open_app
-please mute sound,volume
-show me good morning,greet
-what's run vscode,open_app
-show me good bye please,exit
-what's search leetcode?,search
-tell me what is weather now,weather
-volume down,volume
-please what is sklearn?,search
-what's current weather?,weather
-tell me the time?,time
-tell me what is sklearn?,search
-show's show day today?,date
-start calculator?,open_app
-what's leave please,exit
-please increase volume please,volume
-show me go to sleep?,exit
-clock time now,time
-show me good afternoon please,greet
-now shows up now,greet
-mute sound?,volume
-now sound up now,volume
-tell me hello?,greet
-good afternoon please,greet
-now increase audio now,volume
-good bye now,exit
-tell me show weather,weather
-good bye,exit
-now run vscode,open_app
-now launch chrome please,open_app
+show me shut down now,exit
+open terminal,open_app
+please close chrome please,close_app
+find nlp?,search
+now hi please,greet
+please make louder please,volume
+what's good bye,exit
+now what is weather now,weather
+show's good morning?,greet
+audio up,volume
+show's run vscode please,open_app
+tell me hi now,greet
+what's close chrome,close_app
+show's good afternoon?,greet
 tell me start calculator please,open_app
+please decrease volume please,volume
+please open notepad please,open_app
+please good morning now,greet
+who's find nlp,search
+what's search leetcode?,search
+show's find nlp now,search
+what's current weather now,weather
+tell me the time?,time
+please search python?,search
+show me tell me date is it please,date
+please open browser,open_app
+show me google tutorial?,search
+show's show day today?,date
+what's calendar date,date
+show me go to sleep please,exit
+what's volume down now,volume
+now close chrome now,close_app
+tell me run terminal?,open_app
+launch notepad?,open_app
+show me find nlp now,search
+now end chrome,close_app
+please run vscode please,open_app
+clock time now,time
+temperature now?,weather
+show me volume down please,volume
+tell me google tutorial now,search
+tell me current weather,weather
+tell me calendar date?,date
+tell me mute sound,volume
+what's close calculator,close_app
+please volume down?,volume
+show me launch chrome?,open_app
+now search python please,search
+start notepad,open_app
+google machine learning now,search
+volume up?,volume
+google machine learning?,search
+tell me end chrome now,close_app
+launch terminal?,open_app
+sound up,volume
+show me leave,exit
+what's shut down please,exit
+weather report,weather
+show me end calculator,close_app
 tell me current time?,time
 what's show date now,date
-what's open browser please,open_app
+tell me who is weather?,weather
+please sound up now,volume
+please close notepad please,close_app
 please run browser please,open_app
-what's google tutorial,search
-what's open terminal now,open_app
-good afternoon?,greet
+please what is sklearn?,search
 what day today,date
-now open terminal please,open_app
-tell me weather report now,weather
-what's shut down please,exit
-show me clock time?,time
-tell me good afternoon,greet
-tell me sleep now,exit
-show me mute sound please,volume
-shut down?,exit
-mute sound,volume
-tell me who day today,date
-now good morning,greet
-tell me sleep?,exit
-tell me what hour please,time
-please increase audio please,volume
-what's good bye?,exit
-please google tutorial?,search
-show me bye?,exit
-now tell me is sklearn?,search
-google machine learning now,search
-current weather?,weather
-please make louder now,volume
-please make louder please,volume
+what's google tutorial now,search
+sound up please,volume
+please mute sound,volume
+now sleep please,exit
+tell me good bye?,exit
+hello,greet
+now weather report now,weather
+show me sleep,exit
+show me good morning?,greet
+show's current weather?,weather
+show date?,date
+tell me end terminal now,close_app
+please find nlp,search
+show me close vscode now,close_app
+now close browser,close_app
 now show time now,time
-what's sleep please,exit
+now close terminal?,close_app
 tell me show day today now,date
-what's whats up?,greet
-now mute sound please,volume
-what is weather?,weather
-tell me calendar date?,date
+close calculator?,close_app
+please close terminal please,close_app
 what hour?,time
-what's increase volume now,volume
 tell me show date please,date
-show me show time please,time
-now current time please,time
-now go to sleep now,exit
-what's launch chrome?,open_app
-show's google machine learning,search
-tell me good morning,greet
+show me increase volume?,volume
+tell me search leetcode?,search
 now show date please,date
-what's current time now,time
-now what day today now,date
 tell me who day today now,date
 tell me show hour,time
-search python now,search
+please search leetcode,search
 show me today date?,date
-please show weather now,weather
-now hi?,greet
-please good morning now,greet
-please who date is it,date
-sleep now,exit
 tell me open notepad,open_app
+now good afternoon now,greet
+show me go to sleep?,exit
+please increase volume please,volume
 show me calendar date,date
-show's find nlp now,search
+now current date now,date
 tell me what hour now,time
-tell me good morning now,greet
-what's good afternoon please,greet
+now make louder please,volume
+open terminal?,open_app
 please clock time,time
-tell me's sound up now,volume
-show weather please,weather
+please go to sleep?,exit
+show me run vscode now,open_app
+please close chrome,close_app
 now what date is it,date
-what's current weather now,weather
 now weather today now,weather
 show me weather report?,weather
-please find nlp?,search
-tell me run terminal?,open_app
-tell me current date,date
-open terminal,open_app
-tell me search leetcode now,search
-tell me audio up,volume
-please good afternoon now,greet
-find nlp?,search
-show time,time
-what's google machine learning?,search
-show's today date please,date
-please run vscode now,open_app
-show me what hour now,time
-tell me who is weather?,weather
-what is sklearn please,search
-show me sleep?,exit
-please temperature now now,weather
-weather report,weather
-now sound down please,volume
-show me launch chrome?,open_app
-please what time is it please,time
-hi now,greet
-please open browser,open_app
-show's start calculator now,open_app
-what's current time,time
-show me run vscode now,open_app
-now whats up?,greet
-show me shut down now,exit
-tell me volume up please,volume
-please open terminal?,open_app
-please current weather,weather
-show me what time is it now,time
 increase volume?,volume
-good afternoon,greet
+show me end terminal now,close_app
+tell me current date,date
+hi please,greet
+please launch chrome?,open_app
+what's today date now,date
+show time,time
+tell me sound down please,volume
+show's today date please,date
+now search leetcode?,search
+show me what hour now,time
+show's bye?,exit
+what's open browser please,open_app
+tell me volume up please,volume
+please what time is it please,time
+please shut down please,exit
+search leetcode now,search
+now find nlp?,search
+what's current time,time
+please find nlp please,search
+what's close vscode please,close_app
+show's hello?,greet
+tell me show weather,weather
+tell me's good bye,exit
+please good bye now,exit
+now whats up please,greet
+what's launch chrome?,open_app
+show me what time is it now,time
+tell me end vscode,close_app
+now launch chrome please,open_app
 show me show hour,time
 show me show time is it,time
-who's google tutorial now,search
-tell me current weather?,weather
-what is sklearn now,search
+tell me weather report please,weather
+please current weather,weather
+please open browser please,open_app
+show me terminate browser now,close_app
+please current time please,time
 now what day today?,date
-mute sound please,volume
-please decrease volume please,volume
+what's open terminal?,open_app
+tell me good afternoon now,greet
 show me show weather,weather
-google machine learning please,search
-please find nlp,search
-please run vscode please,open_app
-start calculator,open_app
-show me find nlp?,search
-who's google machine learning please,search
+what's mute sound,volume
+now shut down?,exit
+show me good bye please,exit
+what's decrease volume?,volume
+mute sound,volume
+please shut down now,exit
 tell me calendar date,date
-tell me sleep,exit
-please start calculator?,open_app
+show me sleep now,exit
+what's what is sklearn please,search
+tell me's search python?,search
 please what day today?,date
 please who is weather?,weather
-show me volume up,volume
-tell me hello,greet
+what's good morning please,greet
+what's hi?,greet
 show me what time is it,time
-leave?,exit
-please what is sklearn now,search
+please calendar date now,date
+please mute sound?,volume
+what's google machine learning?,search
 show's current date?,date
 please today date please,date
-launch notepad?,open_app
+please find nlp?,search
 show me tell me the time?,time
-please find nlp please,search
+what's whats up please,greet
 clock time,time
-what's volume down now,volume
-whos up?,greet
-tell me good afternoon?,greet
-now increase sound now,volume
-please search leetcode,search
-what's search leetcode now,search
+run vscode please,open_app
+please close browser now,close_app
+close browser?,close_app
+please close vscode?,close_app
+show me decrease volume?,volume
+now volume up,volume
+what's show time,time
 now clock time,time
-search leetcode now,search
+terminate calculator please,close_app
 please tell me time is it now,time
 tell me's tell me hour now,time
+now run vscode,open_app
 please show date?,date
-now whats up please,greet
-show me go to sleep please,exit
-now search leetcode please,search
+show me whats up,greet
+tell me make louder please,volume
+now good afternoon please,greet
+tell me close terminal please,close_app
 what's today date please,date
-what's decrease volume?,volume
-audio up,volume
+what's make louder now,volume
+what's whats up?,greet
+tell me increase audio now,volume
 what's show date please,date
-please shut down please,exit
-please whats up,greet
+tell me shut down please,exit
+what's good afternoon?,greet
+show me hello now,greet
+launch chrome,open_app
 what's weather today?,weather
-what's hello,greet
-show me increase volume please,volume
+now tell me is sklearn?,search
+tell me run vscode please,open_app
+please hi please,greet
 tell me clock time now,time
 please who time is it now,time
-tell me run vscode please,open_app
+leave now,exit
 show me current weather now,weather
-tell me increase audio please,volume
-google tutorial?,search
-start calculator please,open_app
+tell me google machine learning now,search
 now google tutorial please,search
-tell me's google tutorial now,search
-tell me good bye?,exit
-show's good morning?,greet
-now start browser now,open_app
+show me good afternoon,greet
+tell me open terminal now,open_app
+please weather today,weather
+what's increase volume,volume
 search python please,search
+google machine learning please,search
+now start browser now,open_app
+what's volume up,volume
 please show time,time
 tell me show weather?,weather
 now show time?,time
+show's start calculator now,open_app
 now show weather?,weather
-show me decrease volume?,volume
-please bye now,exit
-hi?,greet
-tell me leave please,exit
+tell me leave?,exit
+show me hello,greet
+please terminate terminal please,close_app
+volume down,volume
 now start terminal,open_app
-shut down now,exit
+please good afternoon now,greet
+mute sound now,volume
 please show weather,weather
 please what is weather?,weather
 please tell me the time?,time
-increase volume now,volume
-please open browser please,open_app
-please volume down now,volume
+what's increase volume please,volume
+google tutorial?,search
+what's shut down?,exit
 show me show weather please,weather
 show me current date please,date
-please leave now,exit
-tell me run vscode?,open_app
+now good afternoon?,greet
+now google machine learning please,search
+please hi,greet
 please what day today now,date
 show time please,time
-show me google machine learning,search
-tell me shut down please,exit
+show me end browser now,close_app
+now mute sound please,volume
 temperature now please,weather
 please what time is it,time
-please mute sound?,volume
+tell me increase sound please,volume
 current date?,date
 what's temperature now,weather
+now sleep now,exit
+tell me's sound up now,volume
 now weather report,weather
 show me clock time now,time
-show me good afternoon now,greet
+whats up now,greet
 now today date now,date
 what's what date is it,date
-shut down please,exit
+show me hello?,greet
 now current weather please,weather
 show weather now,weather
 please clock time now,time
-show me hi,greet
-show's bye?,exit
-show me hi?,greet
-please find nlp now,search
+tell me terminate terminal,close_app
+now good bye please,exit
+tell me close calculator,close_app
+what's launch chrome please,open_app
+tell me decrease volume please,volume
+show date please,date
 now show weather please,weather
-go to sleep,exit
+tell me good bye,exit
 what's today date,date
 show me temperature now please,weather
-what's good morning,greet
-tell me's search python?,search
-now google machine learning please,search
+please end terminal please,close_app
+shut down please,exit
+tell me the time,time
+hi?,greet
 show's weather today?,weather
 show me open notepad,open_app
-tell me sound down please,volume
+tell me shut down now,exit
 please current date please,date
-show's shut down?,exit
-please hi,greet
-tell me whats up now,greet
-sound up,volume
+now good morning,greet
+show me volume up?,volume
+please close notepad,close_app
+tell me's good afternoon now,greet
 open terminal now,open_app
 show me weather today please,weather
-please volume down?,volume
+please sleep please,exit
 tell me open browser please,open_app
+tell me google tutorial please,search
 now launch chrome,open_app
-please search python?,search
+now start calculator,open_app
 show me show time now,time
 please open terminal please,open_app
 now run terminal?,open_app
-mute sound now,volume
+what is sklearn please,search
+tell me increase audio please,volume
 please weather report?,weather
 show me what date is it?,date
-now good afternoon?,greet
-please bye please,exit
+terminate vscode?,close_app
+hello now,greet
 now show day today now,date
+what's close chrome?,close_app
 please what time is it?,time
-show me sound down,volume
-now find nlp?,search
+now go to sleep now,exit
+tell me's temperature now,weather
+tell me increase sound?,volume
 what day today now,date
-tell me search leetcode?,search
-show's good afternoon?,greet
-please volume down please,volume
-show me hello?,greet
+show me find nlp?,search
+tell me's google tutorial,search
+tell me go to sleep now,exit
+please end browser now,close_app
+tell me hello?,greet
+please show day today?,date
 what day today please,date
 tell me launch chrome,open_app
-show me google tutorial?,search
-show me volume down please,volume
-please good morning please,greet
+now run vscode now,open_app
+close chrome,close_app
 please calendar date please,date
 please current date?,date
-now bye please,exit
-what's good bye,exit
-what's today date now,date
-tell me make louder please,volume
+tell me hello please,greet
 show me show time?,time
-please search leetcode?,search
-tell me tell mes up please,greet
-show's search python?,search
-show me run vscode,open_app
 now launch browser?,open_app
-hi,greet
+show me terminate calculator,close_app
 tell me show date,date
-what's run vscode please,open_app
-who day today please,date
+what's find nlp,search
 show me run vscode please,open_app
-tell me's temperature now,weather
+tell me close browser,close_app
 tell me start calculator?,open_app
 tell me show time now,time
-show date?,date
-now sleep please,exit
-run vscode?,open_app
-show me start calculator now,open_app
-tell me whats up?,greet
-please current time please,time
+tell me terminate vscode please,close_app
+show me hello please,greet
+tell me good morning now,greet
 tell me's search python now,search
-google machine learning?,search
-start notepad,open_app
-now start calculator,open_app
-what's clock time now,time
-tell me increase audio now,volume
-please show day today?,date
+please close calculator,close_app
 show me what hour,time
 what date is it please,date
 what's show weather now,weather
-weather today now,weather
-please go to sleep please,exit
-show me find nlp now,search
-sound up please,volume
-tell me weather report please,weather
-tell me go to sleep now,exit
+what's hi,greet
+tell me bye,exit
+now sleep,exit
+please good morning please,greet
 today date please,date
-show date please,date
-please google machine learning please,search
-tell me make louder now,volume
-now run vscode now,open_app
-show's google machine learning please,search
 current weather please,weather
-please calendar date now,date
-tell me google tutorial now,search
-now current date now,date
-launch terminal?,open_app
-who's find nlp,search
-tell me the time,time
-now volume up,volume
-please weather today,weather
-what's show weather please,weather
+please volume down now,volume
 tell me show time please,time
 now calendar date,date
 tell me open terminal please,open_app
 show me weather today,weather
-what's increase volume please,volume
-what's find nlp,search
-show me increase volume?,volume
-what's google tutorial now,search
-tell me hi now,greet
+please decrease volume now,volume
+please terminate vscode now,close_app
 show me current date now,date
 show date now,date
-tell me volume down,volume
-tell me tell mes up?,greet
-tell me decrease volume please,volume
-what's show time,time
+please mute sound now,volume
 what's current date,date
 show me open notepad now,open_app
-show me sleep please,exit
-now make louder please,volume
-what's volume down,volume
-now good afternoon,greet
-what's mute sound,volume
-tell me hello please,greet
-increase audio now,volume
-now clock time?,time
-show me whats up,greet
+tell me leave,exit
+leave?,exit
+please whats up please,greet
+tell me sleep now,exit
+now close notepad?,close_app
+what's increase volume now,volume
+show me close browser,close_app
 now show hour?,time
-please hi?,greet
+tell me close browser?,close_app
 show's show day today,date
-tell me leave?,exit
+good bye now,exit
 now today date,date
 now tell me the time please,time
 tell me audio up now,volume
 who's who time is it now,time
-good morning?,greet
-please hello,greet
+tell me close calculator please,close_app
+what's good afternoon please,greet
+please sound down please,volume
+what's leave now,exit
 who's google machine learning,search
 now show weather,weather
-tell me audio down now,volume
+now sound down please,volume
 show me weather today now,weather
 what's what hour,time
-tell me shut down now,exit
+tell me good morning please,greet
 now google machine learning,search
+please terminate vscode?,close_app
 what's open notepad,open_app
 tell me current weather please,weather
 now show time is it please,time
-now hi,greet
+close notepad?,close_app
 what's launch chrome,open_app
 what's google machine learning please,search
-hello please,greet
-what's shut down?,exit
-good bye please,exit
+show me end chrome please,close_app
+show me good morning please,greet
+what's sleep now,exit
 show me today date please,date
-tell me leave,exit
-show me good bye?,exit
+please whats up,greet
+show's terminate notepad now,close_app
 show me volume down?,volume
-show me good afternoon,greet
-tell me good bye please,exit
-show me hello,greet
+now close terminal,close_app
+please close notepad now,close_app
+tell me decrease audio,volume
+what's close calculator?,close_app
 show date,date
-tell me hi,greet
+please good bye,exit
 show me what day today?,date
-please mute sound now,volume
-tell me increase sound?,volume
-show me leave now,exit
+show me sleep please,exit
+now bye please,exit
+shut down,exit
 what's what date is it now,date
 please show weather please,weather
-whats up now,greet
+show me shut down please,exit
 now calendar date please,date
 show me search python,search
 google tutorial now,search
+please make louder now,volume
 now current date?,date
 now show time please,time
 now what date is it?,date
 what's what is sklearn,search
-please good afternoon,greet
+close vscode please,close_app
 what's weather today,weather
-tell me bye?,exit
-please go to sleep?,exit
+show me good morning,greet
+show me close notepad,close_app
 show me tell me the time,time
-now bye?,exit
+tell me hi?,greet
 please what hour now,time
 what is sklearn,search
 now temperature now now,weather
 who's run vscode,open_app
-tell me bye,exit
-tell me decrease audio,volume
-what's make louder now,volume
+please bye please,exit
+tell me make louder now,volume
+bye?,exit
+tell me sleep?,exit
+what's sleep please,exit
 tell me what is weather?,weather
+show me go to sleep now,exit
 now show is weather,weather
 search leetcode?,search
 tell me what day today now,date
-please shut down now,exit
-show me hello please,greet
+tell me hello,greet
+please shows up?,greet
 show me make louder please,volume
 find nlp now,search
 what's current date now,date
 today date?,date
-show's increase audio please,volume
-hi please,greet
-now good bye please,exit
+now bye?,exit
+tell me close vscode please,close_app
+now leave?,exit
 what's open terminal,open_app
 now google machine learning?,search
 what's open terminal please,open_app
 calendar date please,date
 tell me calendar date now,date
-show me leave?,exit
+what's hello,greet
+tell me good bye now,exit
 tell me today date please,date
-show me whats up?,greet
+now close vscode?,close_app
 tell me show date now,date
+now bye,exit
 now who is weather please,weather
 please show weather?,weather
 what's what is sklearn now,search
@@ -598,85 +662,103 @@ weather report now,weather
 what's search leetcode,search
 weather today,weather
 show me google machine learning?,search
-tell me's tell mes up now,greet
+please hello please,greet
 please today date,date
+show me bye now,exit
 what's what is sklearn?,search
-what's go to sleep?,exit
-bye?,exit
-what's good afternoon now,greet
+please hello now,greet
+good bye please,exit
+now close vscode,close_app
 weather report?,weather
-good afternoon now,greet
-now bye,exit
-please whats up please,greet
-please good bye now,exit
+now sleep?,exit
+now end browser now,close_app
+tell me bye?,exit
+tell me close vscode?,close_app
+go to sleep,exit
+please good afternoon,greet
+now leave please,exit
 tell me start terminal please,open_app
-what's hello now,greet
+tell me terminate chrome now,close_app
 what's volume down?,volume
 show me weather report please,weather
-tell me's good afternoon now,greet
+now hello please,greet
 tell me find nlp?,search
 show me what is sklearn,search
 tell me what date is it please,date
 show is weather now,weather
-please sleep now,exit
+hi now,greet
 please go to sleep,exit
+shut down now,exit
 now open browser?,open_app
+please terminate chrome now,close_app
+please hello,greet
 please weather today please,weather
-now shut down?,exit
+good afternoon?,greet
+tell me sleep,exit
 now launch chrome?,open_app
+show's shut down?,exit
 google tutorial please,search
-show me hello now,greet
+tell me close calculator?,close_app
 please open notepad,open_app
 who's show weather,weather
 good bye?,exit
+what's go to sleep?,exit
 weather today?,weather
 show me launch chrome,open_app
 tell me open notepad now,open_app
 tell me weather report,weather
-tell me hi?,greet
-please sleep,exit
+please close terminal?,close_app
+tell me good afternoon,greet
 tell me search python now,search
 what's start calculator please,open_app
 tell me audio down please,volume
 bye please,exit
-who's hi please,greet
-what's good morning please,greet
-now good afternoon please,greet
+now end notepad?,close_app
+show me close browser please,close_app
+please close browser please,close_app
 sleep please,exit
-now leave please,exit
+who's good afternoon?,greet
 what's good bye now,exit
-now good bye,exit
+please good afternoon please,greet
 who's audio up?,volume
+show me close chrome,close_app
 now increase sound?,volume
 what's clock time,time
 what's temperature now now,weather
+please sleep now,exit
 show me what day today please,date
 please volume down,volume
 show me current time now,time
 increase audio,volume
 what date is it?,date
 show me bye please,exit
-show me sleep,exit
-now sleep,exit
-hello,greet
+tell me close chrome now,close_app
+tell me good morning,greet
+tell me terminate browser?,close_app
+now whats up?,greet
 tell me clock time?,time
 increase audio please,volume
 please current weather please,weather
 show me mute sound,volume
+please bye now,exit
 show is sklearn now,search
 please make louder,volume
-tell me good morning please,greet
+now good morning now,greet
 now weather today,weather
 who's run notepad,open_app
 now open browser please,open_app
-shut down,exit
+show me good afternoon now,greet
 who's weather today now,weather
 please what hour please,time
 please shut down?,exit
-please hi please,greet
+now terminate calculator now,close_app
 now go to sleep?,exit
+show me good afternoon please,greet
 please increase volume,volume
+please hi?,greet
+show me leave?,exit
 show me clock time please,time
+what's good afternoon now,greet
 tell me mute sound now,volume
 please google tutorial now,search
 now volume down please,volume
@@ -685,7 +767,7 @@ now tell me hour please,time
 now current weather,weather
 show me show day today now,date
 what time is it now,time
-please hello now,greet
+who's hi please,greet
 please temperature now,weather
 google machine learning,search
 tell me start browser please,open_app
@@ -700,7 +782,7 @@ what hour,time
 show me search python now,search
 tell me bye please,exit
 what's what day today?,date
-now hello?,greet
+close chrome?,close_app
 show me volume up please,volume
 tell me tell me the time now,time
 show me current time,time
@@ -709,31 +791,40 @@ clock time please,time
 show me google tutorial please,search
 please open terminal,open_app
 show me what date is it,date
+show me whats up?,greet
 show me what is weather now,weather
+show me hi,greet
 please who hour,time
 what's launch chrome now,open_app
+good afternoon,greet
+now whats up now,greet
+now hi?,greet
 tell me what is weather please,weather
 now hello now,greet
 show me show weather now,weather
+tell me whats up now,greet
 show me search python please,search
 what's search leetcode please,search
-what's whats up please,greet
+terminate chrome now,close_app
 please weather report please,weather
 weather report please,weather
 now current date,date
 decrease volume now,volume
+good afternoon now,greet
 now google tutorial?,search
 what's hello please,greet
 tell me's google machine learning now,search
+hello please,greet
 calendar date?,date
 make louder now,volume
 show's launch notepad now,open_app
 show me tell me the time please,time
-who's good afternoon?,greet
+please close vscode,close_app
 now volume down,volume
 tell me show hour now,time
 show me current weather please,weather
 please show time now,time
+what's hello now,greet
 now mute sound?,volume
 what's find nlp please,search
 what's find nlp now,search
@@ -742,6 +833,7 @@ who's show time?,time
 tell me run vscode now,open_app
 now increase volume please,volume
 now open terminal,open_app
+now shows up now,greet
 now temperature now,weather
 tell me show time?,time
 please open notepad?,open_app
@@ -749,16 +841,20 @@ tell me shut down?,exit
 now start calculator please,open_app
 what's show weather,weather
 now today date?,date
-what's hi?,greet
+show me close terminal?,close_app
+please close calculator please,close_app
 what's bye?,exit
+show me close calculator please,close_app
 what's google machine learning,search
-now whats up,greet
+terminate calculator?,close_app
 make louder please,volume
+terminate browser please,close_app
 what is weather please,weather
 sound down please,volume
 what's mute sound?,volume
 show me bye,exit
 now who date is it now,date
+now whats up,greet
 please leave,exit
 show me search python?,search
 what's sleep,exit
@@ -766,6 +862,7 @@ now increase volume now,volume
 show me show time,time
 tell me find nlp,search
 show me decrease volume now,volume
+tell me close calculator now,close_app
 tell me good afternoon please,greet
 show me temperature now?,weather
 show time?,time
@@ -775,6 +872,7 @@ please today date now,date
 what's temperature now?,weather
 what date is it now,date
 tell me open notepad please,open_app
+show me close notepad?,close_app
 please google machine learning now,search
 please google tutorial please,search
 run vscode,open_app
@@ -783,6 +881,7 @@ tell me open browser,open_app
 tell me shut down,exit
 what's today date?,date
 show me go to sleep,exit
+now close browser please,close_app
 what's tell me the time?,time
 tell me run browser?,open_app
 what's tell me the time,time
@@ -797,5 +896,6 @@ show me good afternoon?,greet
 tell me what time is it,time
 show me show date now,date
 what's weather report?,weather
+end vscode?,close_app
 tell me find nlp now,search
 what's current date?,date

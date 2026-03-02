@@ -3,9 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def gradient_descent(X, Y, learning_rate=0.01, iters=1000, tolerance=1e-6):
-    """
-    Batch Gradient Descent for Multiple Linear Regression
-    """
+
     m = len(Y)
     X_bias = np.c_[np.ones((m, 1)), X]  
     weights = np.random.randn(X_bias.shape[1], 1) * 0.01  
@@ -40,7 +38,6 @@ dataframe = pd.read_csv('insurance.csv')
 df = dataframe.loc[:, ["age", "bmi", "smoker", "charges"]]
 
 df["smoker"] = df["smoker"].map({"yes": 1, "no": 0})
-
 print("Dataset shape:", df.shape)
 print("\nDataset preview:")
 print(df.head())
@@ -64,7 +61,7 @@ print(f"y min: ${y_min:.2f}, y max: ${y_max:.2f}")
 
 
 print("\nTraining model...")
-theta, costs = gradient_descent(X_normalized, y_normalized, learning_rate=0.1, iters=3000)
+theta, costs = gradient_descent(X_normalized, y_normalized, learning_rate=0.01, iters=3000)
 
 print(f"Final cost: {costs[-1]:.6f}")
 print(f"Learned weights: {theta.flatten()}")
@@ -86,7 +83,8 @@ def predict_charges(age, bmi, smoker, theta, X_min, X_max, y_min, y_max):
     age_norm = (age - X_min[0]) / (X_max[0] - X_min[0])
     bmi_norm = (bmi - X_min[1]) / (X_max[1] - X_min[1])
     
-
+    
+    print(X_min)
     X_new_norm = np.array([[1, age_norm, bmi_norm, smoker]])
  
     predicted_norm = X_new_norm.dot(theta)[0, 0]

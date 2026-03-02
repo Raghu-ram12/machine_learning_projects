@@ -7,7 +7,7 @@ np.random.seed(42)
 random.seed(42)
 
 # 6 Intents
-intents = ['time', 'date', 'weather', 'open_app', 'search', 'volume','exit','greet']
+intents = ['time', 'date', 'weather', 'open_app', 'search', 'volume','exit','greet','close_app']
 
 # Base phrases + smart variations
 def generate_phrases(intent, n_phrases=100):
@@ -19,7 +19,8 @@ def generate_phrases(intent, n_phrases=100):
         'search': ['search python', 'google machine learning', 'find nlp', 'search leetcode', 'what is sklearn', 'google tutorial'],
         'volume': ['increase volume', 'volume up', 'decrease volume', 'volume down', 'mute sound', 'make louder'],
         'exit':['good bye','go to sleep','shut down','bye','sleep',"leave"],
-        'greet':['hello','hi','whats up','good morning','good afternoon','good afternoon']
+        'greet':['hello','hi','whats up','good morning','good afternoon','good afternoon'],
+        'close_app': ['close notepad', 'close chrome', 'close calculator', 'close browser', 'close vscode', 'close terminal'],
     }
     
     phrases = base_phrases[intent]
@@ -33,7 +34,8 @@ def generate_phrases(intent, n_phrases=100):
         'volume': ['sound', 'audio'],
         'what': ['tell me', 'show',"who"],
         'exit':['close','shut'],
-        'greet':['hello','hi']
+        'greet':['hello','hi'],
+        'close':['terminate','end']
     }
     
     while len(variations) < n_phrases:
